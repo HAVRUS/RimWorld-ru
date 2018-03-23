@@ -6,7 +6,7 @@
 Данный перевод постоянно исправляется и дорабатывается. И если вам не хочется ждать следующего обновления игры, вы можете скачать актуальную версию отсюда. Для этого нужно:
 
 1. Скачать архив или клонировать репозиторий, соответствующий вашей версии игры:
-	* последняя текущая: [архив](https://github.com/Ludeon/RimWorld-ru/archive/master.zip), [Git-репозиторий](https://github.com/Ludeon/RimWorld-ru)
+	* B-18: [архив](https://github.com/Ludeon/RimWorld-ru/archive/beta-18.zip), [Git-репозиторий](https://github.com/Ludeon/RimWorld-ru/tree/beta-18)
 	* A-17: [архив](https://github.com/Ludeon/RimWorld-ru/archive/alpha-17.zip), [Git-репозиторий](https://github.com/Ludeon/RimWorld-ru/tree/alpha-17)
 	* A-16: [архив](https://github.com/Ludeon/RimWorld-ru/archive/alpha-16.zip), [Git-репозиторий](https://github.com/Ludeon/RimWorld-ru/tree/alpha-16)
 	* A-15: [архив](https://github.com/Ludeon/RimWorld-ru/archive/alpha-15.zip), [Git-репозиторий](https://github.com/Ludeon/RimWorld-ru/tree/alpha-15)
@@ -43,6 +43,7 @@
 
 
 ## Сделавшие вклад:
+* [Arex-rus](https://github.com/Arex-rus)
 * [Bugo](https://github.com/dragomano)
 * [Ohar](https://github.com/Ohar)
 * [Dinoabunai](https://github.com/Dinoabunai)
@@ -64,4 +65,4 @@
 
 Процесс перевода и организация командной работы описаны в [wiki](https://github.com/Ludeon/RimWorld-ru/wiki).
 
-Обсуждение всех вопросов происходит в [чате](https://t.me/rimworld_ru) [Телеграма](https://telegram.org/).
+Обсуждение всех вопросов происходит в [чате Телеграма](https://t.me/rimworld_ru) и в [группе ВКонтакте](https://vk.com/rimworld_russian).
